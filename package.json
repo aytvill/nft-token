@@ -24,8 +24,11 @@
     "hardhat": "^2.12.2"
   },
   "dependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
     "@openzeppelin/contracts": "^4.8.0",
     "@openzeppelin/hardhat-upgrades": "^1.21.0",
+    "async": "^2.6.4",
+    "typescript": "5.0.0-dev.20221116",
     "underscore": "^1.12.1"
   }
 }
