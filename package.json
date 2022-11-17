@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "author": "aytvill",
+  "scripts": {
+    "compile": "yarn hardhat compile"
+  },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.2.1",
     "@nomiclabs/hardhat-waffle": "^2.0.3",
