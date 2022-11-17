@@ -28,6 +28,7 @@
     "@openzeppelin/contracts": "^4.8.0",
     "@openzeppelin/hardhat-upgrades": "^1.21.0",
     "async": "^2.6.4",
+    "got": "^11.8.5",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.7",
     "typescript": "5.0.0-dev.20221116",
