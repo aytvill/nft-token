@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aytvill/nft-token.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aytvill/nft-token/issues"
+  },
+  "homepage": "https://github.com/aytvill/nft-token#readme",
   "author": "aytvill",
   "scripts": {
     "compile": "yarn hardhat compile"
