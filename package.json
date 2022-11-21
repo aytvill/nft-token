@@ -33,6 +33,6 @@
     "node-fetch": "^2.6.1",
     "typescript": "5.0.0-dev.20221116",
     "underscore": "^1.13.6",
-    "yargs-parser": "^5.0.1"
+    "yargs-parser": "^21.1.1"
   }
 }
