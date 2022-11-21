@@ -7464,10 +7464,10 @@ typedarray@^0.0.6:
   resolved "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz"
   integrity sha512-/aCDEGatGvZ2BIk+HmLf4ifCJFwvKFNb9/JeZPMulfgFracn9QFcAf5GO8B/mweUjSoblS5In0cWhqpfs/5PQA==
 
-typescript@5.0.0-dev.20221116:
-  version "5.0.0-dev.20221116"
-  resolved "https://registry.npmjs.org/typescript/-/typescript-5.0.0-dev.20221116.tgz"
-  integrity sha512-zLbvvDaFHHwquRZH6P42X5JOjP+BAYZvebvA+IuNjaaj8A8XKWYJbaoZ9qg/PL2E85oAsOTjuZOsp4Mk1ZSWKA==
+typescript@5.0.0-dev.20221121:
+  version "5.0.0-dev.20221121"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.0.0-dev.20221121.tgz#f9ad6445c22b58ec4c8e5d11baf0e2a11eda4799"
+  integrity sha512-p7Nubpa0zmn90Uyacwy26poAIoMmYhEvFxXWs9Kb4INjfQQhQ1svVoXL1R2nQjD9a8W/H9F8BhETzS09ztLMog==
 
 typewise-core@^1.2, typewise-core@^1.2.0:
   version "1.2.0"
