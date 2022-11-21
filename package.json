@@ -30,7 +30,7 @@
     "async": "^3.2.4",
     "got": "^12.5.3",
     "lodash": "*4.17.21",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.3.0",
     "typescript": "5.0.0-dev.20221121",
     "underscore": "^1.13.6",
     "yargs-parser": "^21.1.1"
