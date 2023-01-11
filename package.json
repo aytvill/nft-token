@@ -28,6 +28,7 @@
     "@openzeppelin/contracts": "^4.8.0",
     "@openzeppelin/hardhat-upgrades": "^1.22.0",
     "async": "^3.2.4",
+    "babel-core": "^6.26.0",
     "got": "^12.5.3",
     "json5": "^2.2.2",
     "lodash": "*4.17.21",
